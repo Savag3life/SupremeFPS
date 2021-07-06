@@ -1,0 +1,5 @@
+main: life.savag3.supremefps.Core
+author: Savag3life
+version: 1.0.0
+name: SupremeFPS
+depend: [ ProtocolLib ]
