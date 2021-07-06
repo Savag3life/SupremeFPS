@@ -1,6 +1,10 @@
 ## Supreme FPS Boost
 This is just a quick project I created while testing some optimizations in an upcoming Spigot project. It utilizes [ProtocolLib](https://github.com/dmulloy2/ProtocolLib) to filter some packets from being sent to the client to increase FPS while rendering changes.
 
+### Current Filters:
+- Block `FALLING_BLOCK` Animations
+- Block `PRIMED_TNT` Entities
+
 ## Build
 This project is built on Lombok, Maven, and the Spigot API.
 
